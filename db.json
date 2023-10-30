@@ -1,6 +1,7 @@
 {
     "medicines":[
         {
+            "id":1,
             "name":"Dolo",
             "price":250,
             "discount":10,
@@ -8,6 +9,7 @@
             "image":"https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"   
         },
         {
+            "id":2,
             "name":"Paracetmol",
             "price":250,
             "discount":15,
@@ -16,6 +18,7 @@
         },
        
         {
+            "id":3,
             "name": "Ibuprofen",
             "price": 150,
             "discount":10,
@@ -23,6 +26,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":4,
             "name": "Amoxicillin",
             "price": 180,
             "discount":15,
@@ -30,6 +34,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":5,
             "name": "Lisinopril",
             "price": 300,
             "discount":17,
@@ -37,6 +42,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":6,
             "name": "Lipitor",
             "price": 450,
             "discount":20,
@@ -44,6 +50,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":7,
             "name": "Ventolin",
             "price": 120,
             "discount":10,
@@ -51,6 +58,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":8,
             "name": "Metformin",
             "price": 100,
             "discount":10,
@@ -58,6 +66,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":9,
             "name": "Nexium",
             "price": 280,
             "discount":15,
@@ -65,6 +74,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":10,
             "name": "Zoloft",
             "price": 220,
             "discount":10,
@@ -72,6 +82,7 @@
             "image":"https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":11,
             "name": "Aspirin",
             "price": 75,
             "discount":5,
@@ -79,6 +90,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":12,
             "name": "Cetirizine",
             "price": 120,
             "discount":15,
@@ -86,6 +98,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":13,
             "name": "Prozac",
             "price": 210,
             "discount":10,
@@ -93,6 +106,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":14,
             "name": "Loratadine",
             "price": 90,
             "discount":10,
@@ -100,6 +114,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":15,
             "name": "Atorvastatin",
             "price": 380,
             "discount":25,
@@ -107,6 +122,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":16,
             "name": "Omeprazole",
             "price": 270,
             "discount":15,
@@ -114,6 +130,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":17,
             "name": "Metoprolol",
             "price": 190,
             "discount":10,
@@ -121,6 +138,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":18,
             "name": "Ranitidine",
             "price": 150,
             "discount":15,
@@ -128,6 +146,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":19,
             "name": "Prednisone",
             "price": 240,
             "discount":10,
@@ -135,6 +154,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":20,
             "name": "Ciprofloxacin",
             "price": 290,
             "discount":15,
@@ -142,6 +162,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":21,
             "name": "Simvastatin",
             "price": 200,
             "discount":20,
@@ -149,6 +170,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":22,
             "name": "Acetaminophen",
             "price": 120,
             "discount":15,
@@ -156,6 +178,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":23,
             "name": "Gabapentin",
             "price": 180,
             "discount":10,
@@ -164,6 +187,7 @@
         },
         
         {
+            "id":24,
             "name": "Crocin",
             "price": 50,
             "discount":5,
@@ -171,6 +195,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":25,
             "name": "Zandu Balm",
             "price": 30,
             "discount":5,
@@ -178,6 +203,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":26,
             "name": "Amrutanjan Roll-On",
             "price": 70,
             "discount":10,
@@ -185,6 +211,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":27,
             "name": "Himalaya Liv.52",
             "price": 120,
             "discount":15,
@@ -192,6 +219,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":28,
             "name": "Dabur Chyawanprash",
             "price": 200,
             "discount":10,
@@ -199,6 +227,7 @@
             "image": "https://cdn01.pharmeasy.in/dam/products_otc/C87812/dabur-chyawanprash-health-food-jar-of-950-gm-2-1654165471.jpg"
         },
         {
+            "id":29,
             "name": "Patanjali Neem Ghan Vati",
             "price": 75,
             "discount":15,
@@ -206,6 +235,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":30,
             "name": "Baidyanath Shankhpushpi",
             "price": 90,
             "discount":5,
@@ -213,6 +243,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":31,
             "name": "Himalaya Ashwagandha",
             "price": 150,
             "discount":10,
@@ -220,6 +251,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":32,
             "name": "Baidyanath Amla Juice",
             "price": 80,
             "discount":7,
@@ -227,6 +259,7 @@
             "image": "https://cdn01.pharmeasy.in/dam/products_otc/C87812/dabur-chyawanprash-health-food-jar-of-950-gm-2-1654165471.jpg"
         },
         {
+            "id":33,
             "name": "Patanjali Giloy Ghan Vati",
             "price": 65,
             "discount":5,
@@ -234,6 +267,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":34,
             "name": "Hamdard Roghan Badam Shirin",
             "price": 100,
             "discount":15,
@@ -241,6 +275,7 @@
             "image": "https://cdn01.pharmeasy.in/dam/products_otc/C87812/dabur-chyawanprash-health-food-jar-of-950-gm-2-1654165471.jpg"
         },
         {
+            "id":35,
             "name": "Dabur Honey",
             "price": 180,
             "discount":10,
@@ -248,6 +283,7 @@
             "image": "https://cdn01.pharmeasy.in/dam/products_otc/C87812/dabur-chyawanprash-health-food-jar-of-950-gm-2-1654165471.jpg"
         },
         {
+            "id":36,
             "name": "Ayush Kwath",
             "price": 40,
             "discount":5,
@@ -255,6 +291,7 @@
             "image": "https://cdn01.pharmeasy.in/dam/products_otc/C87812/dabur-chyawanprash-health-food-jar-of-950-gm-2-1654165471.jpg"
         },
         {
+            "id":37,
             "name": "Himalaya Tentex Forte",
             "price": 250,
             "discount":15,
@@ -262,6 +299,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":38,
             "name": "Dabur Shilajit Gold",
             "price": 350,
             "discount":10,
@@ -269,6 +307,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":39,
             "name": "Zandu Kesari Jivan",
             "price": 120,
             "discount":15,
@@ -276,6 +315,7 @@
             "image": "https://cdn01.pharmeasy.in/dam/products_otc/C87812/dabur-chyawanprash-health-food-jar-of-950-gm-2-1654165471.jpg"
         },
         {
+            "id":40,
             "name": "Baidyanath Dashmularishta",
             "price": 60,
             "discount":15,
@@ -283,6 +323,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":41,
             "name": "Patanjali Tulsi Ghan Vati",
             "price": 75,
             "discount":5,
@@ -290,6 +331,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":42,
             "name": "Himalaya Liv.52 DS",
             "price": 180,
             "discount":20,
@@ -297,6 +339,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":43,
             "name": "Zandu Pancharishta",
             "price": 90,
             "discount":15,
@@ -304,6 +347,7 @@
             "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
         },
         {
+            "id":44,
             "name": "Dabur Janma Ghunti",
             "price": 75,
             "discount":10,
@@ -311,6 +355,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":45,
             "name": "Johnson's Baby Powder",
             "price": 120,
             "discount":20,
@@ -318,6 +363,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":46,
             "name": "Pampers Diapers",
             "price": 350,
             "discount":25,
@@ -325,6 +371,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":47,
             "name": "Sebamed Baby Lotion",
             "price": 250,
             "discount":15,
@@ -332,6 +379,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":48,
             "name": "Himalaya Baby Shampoo",
             "price": 150,
             "discount":25,
@@ -339,6 +387,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":49,
             "name": "Patanjali Baby Cream",
             "price": 80,
             "discount":5,
@@ -346,6 +395,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":50,
             "name": "Dabur Lal Tail",
             "price": 120,
             "discount":10,
@@ -353,6 +403,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":51,
             "name": "Himalaya Baby Soap",
             "price": 40,
             "discount":5,
@@ -360,6 +411,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":52,
             "name": "Pigeon Baby Wipes",
             "price": 70,
             "discount":5,
@@ -367,6 +419,7 @@
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
         {
+            "id":53,
             "name": "Dabur Red Toothpaste",
             "price": 40,
             "discount":4,
@@ -374,6 +427,7 @@
             "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
+            "id":54,
             "name": "Colgate Total",
             "price": 50,
             "discount":7,
@@ -381,6 +435,7 @@
             "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
+            "id":55,
             "name": "Sensodyne Toothpaste",
             "price": 120,
             "discount":10,
@@ -388,6 +443,7 @@
             "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
+            "id":56,
             "name": "Dettol Soap",
             "price": 30,
             "discount":5,
@@ -395,6 +451,7 @@
             "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
+            "id":57,
             "name": "Nivea Deodorant",
             "price": 150,
             "discount":10,
@@ -402,20 +459,23 @@
             "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
-            "name": "Patanjali Kesh Kanti Shampoo",
+            "id":58,
+            "name": "Patanjali Kesh Shampoo",
             "price": 80,
             "discount":8,
             "category": "Personal Care",
             "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
-            "name": "Himalaya Purifying Neem Face Wash",
+            "id":59,
+            "name": "Himalaya Neem Face Wash",
             "price": 70,
             "discount":10,
             "category": "Skin Care",
             "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
+            "id":60,
             "name": "Lotus Herbal Sunscreen",
             "price": 200,
             "discount":10,
@@ -423,20 +483,23 @@
             "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
-            "name": "Biotique Bio Papaya Revitalizing Tan-Removal Scrub",
+            "id":61,
+            "name": "Biotique Bio Scrub",
             "price": 180,
             "discount":15,
             "category": "Skin Care",
             "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
-            "name": "Himalaya Herbals Moisturizing Cream",
+            "id":62,
+            "name": "Himalaya Herbals Cream",
             "price": 120,
             "discount":12,
             "category": "Skin Care",
             "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
+            "id":63,
             "name": "Patanjali Aloevera Gel",
             "price": 70,
             "discount":5,
@@ -444,6 +507,7 @@
             "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
+            "id":64,
             "name": "Vicco Turmeric Cream",
             "price": 50,
             "discount":5,
@@ -453,6 +517,7 @@
     ],
     "cart" : [
         {
+            "id":36,
             "name": "Ayush Kwath",
             "price": 40,
             "discount":5,
