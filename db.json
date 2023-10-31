@@ -73,6 +73,104 @@
             "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
         },
         {
+            "id":46,
+            "name": "Pampers Diapers",
+            "price": 350,
+            "discount":25,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        {
+            "id":47,
+            "name": "Sebamed Baby Lotion",
+            "price": 250,
+            "discount":15,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        {
+            "id":48,
+            "name": "Himalaya Baby Shampoo",
+            "price": 150,
+            "discount":25,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        {
+            "id":49,
+            "name": "Patanjali Baby Cream",
+            "price": 80,
+            "discount":5,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        {
+            "id":44,
+            "name": "Dabur Janma Ghunti",
+            "price": 75,
+            "discount":10,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        {
+            "id":45,
+            "name": "Johnson's Baby Powder",
+            "price": 120,
+            "discount":20,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        
+        {
+            "id":50,
+            "name": "Dabur Lal Tail",
+            "price": 120,
+            "discount":10,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        {
+            "id":51,
+            "name": "Himalaya Baby Soap",
+            "price": 40,
+            "discount":5,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        {
+            "id":52,
+            "name": "Pigeon Baby Wipes",
+            "price": 70,
+            "discount":5,
+            "category": "Baby Care",
+            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
+        },
+        
+        {
+            "id":62,
+            "name": "Himalaya Herbals Cream",
+            "price": 120,
+            "discount":12,
+            "category": "Skin Care",
+            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":63,
+            "name": "Patanjali Aloevera Gel",
+            "price": 70,
+            "discount":5,
+            "category": "Skin Care",
+            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":64,
+            "name": "Vicco Turmeric Cream",
+            "price": 50,
+            "discount":5,
+            "category": "Skin Care",
+            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
+        }, 
+        {
             "id":1,
             "name":"Dolo",
             "price":250,
@@ -404,104 +502,7 @@
             "discount":15,
             "category": "Health",
             "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
-        },
-        {
-            "id":44,
-            "name": "Dabur Janma Ghunti",
-            "price": 75,
-            "discount":10,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        {
-            "id":45,
-            "name": "Johnson's Baby Powder",
-            "price": 120,
-            "discount":20,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        {
-            "id":46,
-            "name": "Pampers Diapers",
-            "price": 350,
-            "discount":25,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        {
-            "id":47,
-            "name": "Sebamed Baby Lotion",
-            "price": 250,
-            "discount":15,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        {
-            "id":48,
-            "name": "Himalaya Baby Shampoo",
-            "price": 150,
-            "discount":25,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        {
-            "id":49,
-            "name": "Patanjali Baby Cream",
-            "price": 80,
-            "discount":5,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        {
-            "id":50,
-            "name": "Dabur Lal Tail",
-            "price": 120,
-            "discount":10,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        {
-            "id":51,
-            "name": "Himalaya Baby Soap",
-            "price": 40,
-            "discount":5,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        {
-            "id":52,
-            "name": "Pigeon Baby Wipes",
-            "price": 70,
-            "discount":5,
-            "category": "Baby Care",
-            "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
-        },
-        
-        {
-            "id":62,
-            "name": "Himalaya Herbals Cream",
-            "price": 120,
-            "discount":12,
-            "category": "Skin Care",
-            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":63,
-            "name": "Patanjali Aloevera Gel",
-            "price": 70,
-            "discount":5,
-            "category": "Skin Care",
-            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":64,
-            "name": "Vicco Turmeric Cream",
-            "price": 50,
-            "discount":5,
-            "category": "Skin Care",
-            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
-        }          
+        }         
     ],
     "cart" : [
         {
