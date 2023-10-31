@@ -1,6 +1,78 @@
 {
     "medicines":[
         {
+            "id":53,
+            "name": "Dabur Red Toothpaste",
+            "price": 40,
+            "discount":4,
+            "category": "Personal Care",
+            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":54,
+            "name": "Colgate Total",
+            "price": 50,
+            "discount":7,
+            "category": "Personal Care",
+            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":55,
+            "name": "Sensodyne Toothpaste",
+            "price": 120,
+            "discount":10,
+            "category": "Personal Care",
+            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":56,
+            "name": "Dettol Soap",
+            "price": 30,
+            "discount":5,
+            "category": "Personal Care",
+            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":57,
+            "name": "Nivea Deodorant",
+            "price": 150,
+            "discount":10,
+            "category": "Personal Care",
+            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":58,
+            "name": "Patanjali Kesh Shampoo",
+            "price": 80,
+            "discount":8,
+            "category": "Personal Care",
+            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":59,
+            "name": "Himalaya Neem Face Wash",
+            "price": 70,
+            "discount":10,
+            "category": "Skin Care",
+            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":60,
+            "name": "Lotus Herbal Sunscreen",
+            "price": 200,
+            "discount":10,
+            "category": "Skin Care",
+            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id":61,
+            "name": "Biotique Bio Scrub",
+            "price": 180,
+            "discount":15,
+            "category": "Skin Care",
+            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
             "id":1,
             "name":"Dolo",
             "price":250,
@@ -405,78 +477,7 @@
             "category": "Baby Care",
             "image": "https://m.media-amazon.com/images/I/61nMF-u+jTL.jpg"
         },
-        {
-            "id":53,
-            "name": "Dabur Red Toothpaste",
-            "price": 40,
-            "discount":4,
-            "category": "Personal Care",
-            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":54,
-            "name": "Colgate Total",
-            "price": 50,
-            "discount":7,
-            "category": "Personal Care",
-            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":55,
-            "name": "Sensodyne Toothpaste",
-            "price": 120,
-            "discount":10,
-            "category": "Personal Care",
-            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":56,
-            "name": "Dettol Soap",
-            "price": 30,
-            "discount":5,
-            "category": "Personal Care",
-            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":57,
-            "name": "Nivea Deodorant",
-            "price": 150,
-            "discount":10,
-            "category": "Personal Care",
-            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":58,
-            "name": "Patanjali Kesh Shampoo",
-            "price": 80,
-            "discount":8,
-            "category": "Personal Care",
-            "image": "https://m.media-amazon.com/images/I/41d8Z6kjKxL._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":59,
-            "name": "Himalaya Neem Face Wash",
-            "price": 70,
-            "discount":10,
-            "category": "Skin Care",
-            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":60,
-            "name": "Lotus Herbal Sunscreen",
-            "price": 200,
-            "discount":10,
-            "category": "Skin Care",
-            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
-        },
-        {
-            "id":61,
-            "name": "Biotique Bio Scrub",
-            "price": 180,
-            "discount":15,
-            "category": "Skin Care",
-            "image": "https://m.media-amazon.com/images/I/41uM7Prna-L._SX300_SY300_QL70_FMwebp_.jpg"
-        },
+        
         {
             "id":62,
             "name": "Himalaya Herbals Cream",
