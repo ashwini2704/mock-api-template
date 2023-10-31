@@ -524,6 +524,71 @@
             "category": "Nuitrition",
             "image": "https://cdn01.pharmeasy.in/dam/products_otc/C87812/dabur-chyawanprash-health-food-jar-of-950-gm-2-1654165471.jpg"
         }
+    ],
+    "articles" : [
+        {
+            "id" : 1,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/08/how-to-reverse-prediabetes.webp?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-500",
+            "title": "How to Reverse Prediabetes and Avoid Type 2 Diabetes Before It Starts",
+            "article": "Prediabetes refers to a state in which blood sugar levels exceed normal ranges but do not reach the threshold for type 2 diabetes classification. It serves as a warning that indicates a risk of developing diabetes in the future.",
+            "link": "https://www.truemeds.in/blog/how-to-reverse-prediabetes"
+        },
+        {
+            "id" : 2,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/08/pregnancy-nutrition.jpg?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-500",
+            "title": "Pregnancy Nutrition: Top Supplements for a Healthy Journey",
+            "article": "Protein is essential for tissue growth, while vitamin D supports bone health. Fruits, vegetables, whole grains, lean proteins, and dairy products are excellent sources of these nutrients. ",
+            "link": "https://www.truemeds.in/blog/supplements-in-pregnancy"
+        },
+        {
+            "id" : 3,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/08/insulin-resistance-diet.jpg?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-500",
+            "title": "The Insulin Resistance Diet: Your Key to Regulating Blood Sugar Levels",
+            "article": "Insulin resistance is a grave health concern that can lead to disorders such as type 2 diabetes, heart disease, and stroke. However, insulin resistance can be managed effectively with the right dietary plan.",
+            "link": "https://www.truemeds.in/blog/diet-for-insulin-resistance"
+        },
+        {
+            "id" : 4,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/08/how-to-reverse-prediabetes.webp?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-500",
+            "title": "How to Reverse Prediabetes and Avoid Type 2 Diabetes Before It Starts",
+            "article": "Prediabetes refers to a state in which blood sugar levels exceed normal ranges but do not reach the threshold for type 2 diabetes classification. It serves as a warning that indicates a risk of developing diabetes in the future.",
+            "link": "https://www.truemeds.in/blog/exercises-for-asthma-patients"
+        },
+        {
+            "id" : 5,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/01/Exercises-for-Asthma-Patients.png?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-650",
+            "title": "5 Asthma exercises to keep your asthma under control",
+            "article": "For many people, symptoms appear when performing exercise-induced asthma or exercise-induced bronchoconstriction (EIB). It is observed that people who have asthma often experience EIB, but people who experience EIB don't need to have asthma.",
+            "link": "https://economictimes.indiatimes.com/markets/stocks/news/navigating-market-volatility-11-strategies-for-successful-investments/articleshow/101040092.cms?from=mdr"
+        },
+        {
+            "id" : 6,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/02/Probiotics-and-Prebiotics-Your-Guide-to-a-Healthy-Gut.jpg?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-650",
+            "title": "Probiotics and Prebiotics: Your Guide to a Healthy Gut",
+            "article": "Probiotics are live microorganisms that restore or replenish the good bacteria in the gut. Probiotics are present in fermented foods which we eat in our daily life. They help in the treatment of diseases and in maintaining a healthy gut.",
+            "link": "https://www.truemeds.in/blog/probiotics-and-prebiotics-your-guide-to-a-healthy-gut"
+        },
+        {
+            "id" : 7,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/05/Tips-for-Staying-Safe-and-Healthy-During-Heat-Waves.webp?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-650",
+            "title": "Beating the Heat: Tips for Staying Safe and Healthy During Heat Waves",
+            "article": "As the impact of a heat wave is not limited to life, but extends to agriculture, the environment, and animals. Implementing appropriate changes at the government and individual levels together will save nature & lives.",
+            "link": "https://www.truemeds.in/blog/beating-the-heat-tips-for-staying-safe-and-healthy-during-heat-waves"
+        },
+        {
+            "id" : 8,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/09/simple-tips-to-reduce-eye-strain.png?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-650",
+            "title": "How to relieve Eye Strain While Working on a Computer",
+            "article": "The computer screens emit blue light and require the eyes to constantly adjust focus and align, which causes eye strain and fatigue. Blue light is a high-energy visible light emitted by computers, smartphones, tablets, and televisions.",
+            "link": "https://www.truemeds.in/blog/how-to-relieve-eye-strain-while-working-on-a-computer"
+        },
+        {
+            "id" : 9,
+            "image": "https://truemedsblog.in/wp-content/uploads/2023/06/Benefits-of-blood-donation.png?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-650",
+            "title": "Benefits of blood donation: Side Effects, Advantages, and More",
+            "article": "Blood donation is a precious and life-saving gift we can offer others. Even though our contribution may appear small, it plays a vital role in saving lives. It helps in situations like accidents, surgeries, and complications during pregnancy.",
+            "link": "https://www.truemeds.in/blog/benefits-of-blood-donation-side-effects-advantages"
+        }
     ]
 }
 
