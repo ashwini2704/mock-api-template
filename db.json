@@ -6,16 +6,16 @@
             "price":250,
             "discount":10,
             "category":"Health",
-            "image":"https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"   
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg" 
+            },
         {
             "id":2,
             "name":"Paracetmol",
             "price":250,
             "discount":15,
             "category":"Health",
-            "image":"https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"  
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg" 
+            },
        
         {
             "id":3,
@@ -23,127 +23,114 @@
             "price": 150,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg" 
+            },
         {
             "id":4,
             "name": "Amoxicillin",
             "price": 180,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg" 
+            },
         {
             "id":5,
             "name": "Lisinopril",
             "price": 300,
             "discount":17,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":6,
             "name": "Lipitor",
             "price": 450,
             "discount":20,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":7,
             "name": "Ventolin",
             "price": 120,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":8,
             "name": "Metformin",
             "price": 100,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":9,
             "name": "Nexium",
             "price": 280,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":10,
             "name": "Zoloft",
             "price": 220,
             "discount":10,
             "category": "Health",
-            "image":"https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":11,
             "name": "Aspirin",
             "price": 75,
             "discount":5,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":12,
             "name": "Cetirizine",
             "price": 120,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":13,
             "name": "Prozac",
             "price": 210,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":14,
             "name": "Loratadine",
             "price": 90,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":15,
             "name": "Atorvastatin",
             "price": 380,
             "discount":25,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":16,
             "name": "Omeprazole",
             "price": 270,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":17,
             "name": "Metoprolol",
             "price": 190,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
-        },
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"         },
         {
             "id":18,
             "name": "Ranitidine",
             "price": 150,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg" 
         },
         {
             "id":19,
@@ -151,7 +138,7 @@
             "price": 240,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"        
         },
         {
             "id":20,
@@ -159,7 +146,7 @@
             "price": 290,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"        
         },
         {
             "id":21,
@@ -167,7 +154,7 @@
             "price": 200,
             "discount":20,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"        
         },
         {
             "id":22,
@@ -175,7 +162,7 @@
             "price": 120,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"        
         },
         {
             "id":23,
@@ -183,7 +170,7 @@
             "price": 180,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"        
         },
         
         {
@@ -192,7 +179,7 @@
             "price": 50,
             "discount":5,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"        
         },
         {
             "id":25,
@@ -200,7 +187,7 @@
             "price": 30,
             "discount":5,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+        "image":"https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"        
         },
         {
             "id":26,
@@ -208,7 +195,7 @@
             "price": 70,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":27,
@@ -216,7 +203,7 @@
             "price": 120,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":28,
@@ -232,7 +219,7 @@
             "price": 75,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":30,
@@ -240,7 +227,7 @@
             "price": 90,
             "discount":5,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":31,
@@ -248,7 +235,7 @@
             "price": 150,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":32,
@@ -264,7 +251,7 @@
             "price": 65,
             "discount":5,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":34,
@@ -296,7 +283,7 @@
             "price": 250,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":38,
@@ -304,7 +291,7 @@
             "price": 350,
             "discount":10,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":39,
@@ -320,7 +307,7 @@
             "price": 60,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":41,
@@ -328,7 +315,7 @@
             "price": 75,
             "discount":5,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":42,
@@ -336,7 +323,7 @@
             "price": 180,
             "discount":20,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":43,
@@ -344,7 +331,7 @@
             "price": 90,
             "discount":15,
             "category": "Health",
-            "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/292981603/ER/OB/WW/159013546/lipitor-atorvastatin-80mg-tablets.jpg"
+            "image": "https://www.netmeds.com/images/product-v1/150x150/379748/doloneuron_100mg_tablet_15s_45482_0_1.jpg"
         },
         {
             "id":44,
