@@ -578,6 +578,17 @@
             "article": "Blood donation is a precious and life-saving gift we can offer others. Even though our contribution may appear small, it plays a vital role in saving lives. It helps in situations like accidents, surgeries, and complications during pregnancy.",
             "link": "https://www.truemeds.in/blog/benefits-of-blood-donation-side-effects-advantages"
         }
+    ],
+    "user" : [
+        {
+            "id" : 1,
+            "firstname" : "ashwini",
+            "lastname" : "titarmare",
+            "mobile" : "8275014292",
+            "address" : "Hingna, Nagpur",
+            "email" : "ashwini@gmail.com",
+            "password" : "123456"
+        }
     ]
 }
 
